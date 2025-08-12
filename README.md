@@ -3,7 +3,7 @@ Petite alimentation secteur sortie 5V/600mA HI LINK
 
 Lorsque que j'ai réalisé la rénovation d'une de mes chambres, j'ai pensé à prévoir l'emplacement pour une petite caméra surveillant le Jardin.
 
-J'ai tiré un câble basse tension (assez court) aboutissant à un boitier à placo de grande taille desservie par le secteur.
+J'ai tiré un câble basse tension (assez court) aboutissant à un boitier à placo de grande taille desservi par le secteur.
 
 J'ai testé la caméra, elle fonctionne à merveille mais maintenant depuis ce grand boîtier il faut que je puisse y placer une alimentation qui sera en permanence sous tension.
 
