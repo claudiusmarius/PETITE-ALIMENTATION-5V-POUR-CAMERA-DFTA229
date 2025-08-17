@@ -18,3 +18,8 @@ Et je termine par la réalisation en réeel du circuit.
 J'ai été obligé d'accélerer sinon la vidéo aurait été trop longue mais c'est un bon point de départ, et si je perçois votre intérêt il y en aura d'autres sur le même thème.
 
 Ce PCB est compatible pour tous les HI-Link la gamme HLK-PM et donc pour les niveaux de tension 3.3/5/9/12/24V au choix. Seul la résistance de limitation de la LED devra être adaptée. Il faudra s'assurer que la tension de service du condensateur chimique soit supérieure ou égale à 50V, pour ne pas avoir de soucis.
+
+Voici la vidéo YouTube :
+https://youtu.be/9yuHZgqAc7s
+
+
