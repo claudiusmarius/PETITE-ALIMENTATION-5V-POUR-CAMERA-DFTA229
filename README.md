@@ -13,7 +13,7 @@ Je n'avais pas encore de grand besoin de miniaturisation, nous verrons ce sera p
 
 Dans cette vidéo j'essaie de montrer en accéléré le tracé du schéma sur KiCad, le placement des composants sur le PCB, le routage, la commande du PCB depuis les fichiers Gerber
 
-Et je termine par la réalisation en réeel du circuit.
+Et je termine par la réalisation en live du circuit.
 
 J'ai été obligé d'accélerer sinon la vidéo aurait été trop longue mais c'est un bon point de départ, et si je perçois votre intérêt il y en aura d'autres sur le même thème.
 
